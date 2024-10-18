@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1705502247 source:e:\code blocks\proiecte\proiectip\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
